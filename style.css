@@ -1,0 +1,23 @@
+ article{
+     background-color: beige;
+     border-radius: 10px;
+     width: 70%;
+     padding: 10px;
+ }
+main{
+    background-color: yellow;
+    border-radius: 12px;
+    width: 80%;
+    padding: 30px;
+}
+footer{
+    background-color:green;
+color:whitesmoke;
+border-radius: 12px;
+width: 90%;
+}
+header{background-color:green;
+    width: 90%;
+    border-radius: 12px;
+    color: white;
+}
