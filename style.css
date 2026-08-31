@@ -22,9 +22,15 @@ header{background-color:green;
     color: white;
 }
 button{
-    border-radius: 170px;
+    border-radius: 30px;
     background-color: red;
     padding: 18px;
  height: 70%;
  width: 80%%;
+ color: blue;
+}
+a{background-color: orange;
+ border-radius: 30px;
+  padding: 23px;
+  color: brown;
 }
