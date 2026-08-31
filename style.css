@@ -21,3 +21,8 @@ header{background-color:green;
     border-radius: 12px;
     color: white;
 }
+button{
+    border-radius: 37px;
+    background-color: red;
+    padding: 78px;
+}
