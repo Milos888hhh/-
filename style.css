@@ -33,3 +33,9 @@ a{background-color: orange;
   color: brown;
 }
 nav{background-color: #00F00;}
+p{
+ .great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}}
